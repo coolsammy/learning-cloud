@@ -1,5 +1,7 @@
 # AWS Resources
 
+![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-locations.png)
+
 - AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 - My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20langit) - I've created a number of **series** of AWS courses (18 total courses)
   - **AWS for Data Series**: Machine Learning, Data Analytics, Data Services, Data Security
@@ -20,9 +22,10 @@
 ## Other Resources & Certification Info
 
 - Open Guide for AWS on GitHub - [link](https://github.com/open-guides/og-aws)
+- AWS Architecture Center, includes reference architectures - [link](https://aws.amazon.com/architecture)
 
 - List of certifications for AWS:  
-  - Main - https://aws.amazon.com/certification/
-  - Cert Prep - https://aws.amazon.com/certification/certification-prep/
+  - Main certification site - [link](https://aws.amazon.com/certification/)
+  - Cert Prep site - [link]( https://aws.amazon.com/certification/certification-prep/)
 
 ![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/AWS/aws.png)
